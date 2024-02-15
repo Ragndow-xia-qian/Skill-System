@@ -48,6 +48,8 @@ You can use it to get skill such as improve attack power, increase HP.
 You need to explore relic or challenge to get skill cards or upgrade skills.
 
 Wishing you a pleasant trip!
+
+(Code: https://github.com/Ragndow-xia-qian/Skill-System)
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.skill_system]] #optional
